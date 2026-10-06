@@ -1,0 +1,4 @@
+#fdf2e9   beige claro
+#D4E6F1  celeste claro
+#7FB3D5 celeste mas oscuro
+#33739E  azul brillante 

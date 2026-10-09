@@ -69,3 +69,5 @@ footer{text-align:center;padding:2.5rem 5vw;background:var(--nav);color:var(--na
 .foot .foot-raices{border-radius:50%}
 @media (max-width:520px){.foot img{height:44px}.foot span{font-size:.85rem}}
 
+.mapa{margin-top:1.5rem;border:1px solid var(--line);border-radius:4px;overflow:hidden;aspect-ratio:16/9;min-height:280px}
+.mapa iframe{display:block;width:100%;height:100%;border:0}

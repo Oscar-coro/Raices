@@ -1,4 +1,4 @@
-:root{--nav:#262b26;--navink:#e6d9c4;--navline:#ecddc840;--bg:#14232d;--bg2:#1b3344;--mid:#7FB3D5;--ink:#fdf2e9;--green:#7FB3D5;--onGreen:#0f1f2a;--line:#7FB3D555}
+:root{--nav:#262b26;--navink:#e6d9c4;--navline:#ecddc840;--bg:#14232d;--bg2:#1b3344;--mid:#7FB3D5;--ink:#fdf2e9;--green:#7FB3D5;--onGreen:#0f1f2a;--line:#7FB3D555;--serif:'Cormorant Garamond',Georgia,serif;--sans:Karla,system-ui,sans-serif}
 *{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:70px}
 body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.65 var(--sans)}
 h1,h2,h3{font-family:var(--serif);line-height:1.1;margin:0 0 .5em}
